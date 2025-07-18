@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install llama-index flask werkzeug python-dotenv google-generativeai llama-index-embeddings-google llama-index-llms-google"
+}
